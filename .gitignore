@@ -126,3 +126,6 @@ compiled/
 
 # Cython debug symbols
 cython_debug/
+
+# Local Python virtual environment
+mytorch_env311/
